@@ -6,7 +6,7 @@ Yii2 TDC Reviews Client
 [![Latest Unstable Version](https://poser.pugx.org/daxslab/yii2-tdcreviewsclient-module/v/unstable.svg)](https://packagist.org/packages/daxslab/yii2-tdcreviewsclient-module)
 [![License](https://poser.pugx.org/daxslab/yii2-tdcreviewsclient-module/license.svg)](https://packagist.org/packages/daxslab/yii2-tdcreviewsclient-module)
 
-Yii2 client module to interact with http://toudchdcity.com reviews service
+Yii2 client module to interact with http://www.toudchdcity.com reviews service
 
 Installation
 ------------
