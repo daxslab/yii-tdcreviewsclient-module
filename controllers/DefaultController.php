@@ -6,7 +6,9 @@ use daxslab\tdcreviewsclient\models\ReviewData;
 use Yii;
 use yii\base\ErrorException;
 use yii\data\ArrayDataProvider;
+use yii\httpclient\Exception;
 use yii\web\Controller;
+use yii\web\NotFoundHttpException;
 
 class DefaultController extends Controller
 {
